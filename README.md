@@ -25,6 +25,12 @@ Repositorio de la materia **Métodos Numéricos**, donde se incluyen problemario
 
 ---
 
+### 🧮 Tema 5
+- 📄 [Problemario Tema 5](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%205/problemario)
+- 📝 [Examen Tema 5](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%205/examen)
+
+---
+
 ## 📌 Descripción
 
 Este repositorio contiene ejercicios prácticos y evaluaciones relacionadas con:
