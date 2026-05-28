@@ -1,67 +1,75 @@
 ﻿# 📘 Métodos Numéricos
 
-Repositorio de la materia **Métodos Numéricos**, donde se incluyen problemarios, exámenes, materiales de apoyo y recursos utilizados a lo largo del curso.
+Repositorio de la materia **Métodos Numéricos**, donde se incluyen problemarios, exámenes, materiales de apoyo, videos y recursos utilizados a lo largo del curso.
 
 ---
 
-## 📂 Contenido del Repositorio
+# 📂 Contenido del Repositorio
 
-### 🧮 Tema 2
-- 📄 [Problemario Tema 2](https://github.com/DeificShoe/Metodos_numericos/blob/main/tema%202/Problemario%20t2/)
-- 📊 [PDF del Examen y Archivos XLS](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%202)
+## 📚 Temas
 
----
+### 📖 Tema 1
+- 📁 [Tema 1](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%201)
 
-### 🧮 Tema 3
-- 👥 [Problemario Grupal Tema 3](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%203/problemario%20gupal%20t3)
-- 📝 [Examen Tema 3](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%203/problemas%20examen%20t3)
+### 📖 Tema 2
+- 📁 [Tema 2](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%202)
 
----
+### 📖 Tema 3
+- 📁 [Tema 3](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%203)
 
-### 🧮 Tema 4
-- 🎥 [Videos de Métodos](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%204/4%20metodos%20videos)
-- 📄 [Problemario Tema 4](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%204/Problemario)
-- 📝 [Examen Tema 4](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%204/examen)
+### 📖 Tema 4
+- 📁 [Tema 4](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%204)
 
----
+### 📖 Tema 5
+- 📁 [Tema 5](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%205)
 
-### 🧮 Tema 5
-- 📄 [Problemario Tema 5](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%205/problemario)
-- 📝 [Examen Tema 5](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%205/examen)
+### 📖 Tema 6
+- 📁 [Tema 6](https://github.com/DeificShoe/Metodos_numericos/tree/main/tema%206)
 
 ---
 
-## 📌 Descripción
+# 📌 Descripción
 
-Este repositorio contiene ejercicios prácticos y evaluaciones relacionadas con:
+Este repositorio contiene ejercicios prácticos, evaluaciones y material relacionado con:
 
 - Métodos de interpolación
-- Solución de ecuaciones
-- Métodos numéricos aplicados
+- Solución numérica de ecuaciones
+- Métodos iterativos
+- Ajuste de curvas
+- Diferenciación e integración numérica
+- Ecuaciones diferenciales
 - Análisis de resultados
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+# 🛠️ Tecnologías Utilizadas
 
 - Python 🐍
-- Java
+- Java ☕
 - Excel 📊
 - PDF 📄
 
 ---
 
-## 📚 Uso
+# 🚀 Uso
 
-Puedes navegar por cada tema usando los enlaces anteriores para acceder directamente a los materiales correspondientes.
+Puedes navegar por cada carpeta del repositorio para acceder a:
+
+- 📄 Problemarios
+- 📝 Exámenes
+- 🎥 Videos
+- 📊 Archivos XLS
+- 💻 Programas y ejercicios
 
 ---
 
-## 👨‍💻 Autor
+# 👨‍💻 Autor
 
 **Emanuel Islas Quintos**  
 Ingeniería en Sistemas Computacionales
 
 ---
 
-⭐ Si te sirve este repositorio, no olvides darle estrella.
+# ⭐ Apoya el Repositorio
+
+Si este repositorio te fue útil, considera darle una ⭐ al repositorio.
